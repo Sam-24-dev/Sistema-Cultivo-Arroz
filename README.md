@@ -256,7 +256,7 @@ cd ../frontend && python -m http.server 8000
 Este proyecto está bajo la licencia **MIT License** - ver el archivo [LICENSE](LICENSE) para detalles.
 
 ### 📧 Contacto Profesional
-- **LinkedIn:** [Samir CaizaPasto](https://www.linkedin.com/in/samircaizapasto/)
+- **LinkedIn:** [Samir Caizapasto](https://www.linkedin.com/in/samircaizapasto/)
 - **GitHub:** [Sam-24-dev](https://github.com/Sam-24-dev)  
 - **Email:** samir.leonardo.caizapasto04@gmail.com
 
