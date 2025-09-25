@@ -3,7 +3,6 @@
 
 [![Frontend Demo](https://img.shields.io/badge/Demo-Frontend%20Live-brightgreen)](https://sam-24-dev.github.io/Sistema-Cultivo-Arroz/)
 [![Analytics Demo](https://img.shields.io/badge/Demo-Analytics%20Live-orange)](https://sam-24-dev.github.io/Analisis-Cultivo-Arroz/)
-[![MySQL](https://img.shields.io/badge/Database-MySQL-blue)](./database/)
 [![Python](https://img.shields.io/badge/Analytics-Python%20%7C%20Jupyter-ff6b6b)](https://github.com/Sam-24-dev/Analisis-Cultivo-Arroz)
 
 ---
